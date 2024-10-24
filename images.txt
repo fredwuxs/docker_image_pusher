@@ -1,2 +1,3 @@
 nextcloud:stable-fpm
+nextcloud:stable
 outlovecn/portainer-cn
