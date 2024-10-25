@@ -1,3 +1,1 @@
-nextcloud:stable-fpm
-nextcloud:stable
-outlovecn/portainer-cn
+arm32v7/nextcloud
